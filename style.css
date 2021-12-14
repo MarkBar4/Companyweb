@@ -1,0 +1,119 @@
+body
+{
+	background-color: white;
+}
+#logo
+{
+	font-size: 45px;
+	font-family: monospace;
+	text-align: left;
+	margin-left: auto;
+	margin-right: auto;
+}
+#content
+{
+	text-align: center;
+	margin margin-bottom: 50px;
+
+}
+.ofertas
+{
+	
+}
+#menubar
+{
+	text-align: center;
+	margin-right: 40px;
+	margin-left: auto;
+	float: left;
+
+
+
+}
+.galeria
+{
+	padding: 10px 40px;
+	font-size: 40px;
+	text-transform: uppercase;
+	border-style: none;
+	padding: 0;
+	background-color: lightgreen;
+	font-family: arial;
+	border-radius: 10px;
+	box-shadow: 0 0 0 3px black,0 0 0 12px lightgreen;
+	transition: 0.3s;
+	float: left;
+	margin-bottom: 50px;
+	width: 100%;
+}
+.galeria:hover{
+	box-shadow: 0 0 0 3px black, 0 0 0 18px lightgreen;
+	border-radius: 40px;
+}
+.onas
+{
+	padding: 15px 40px;
+	font-size: 40px;
+	text-transform: uppercase;
+	border-style: none;
+	padding: 0;
+	background-color: lightblue;
+	font-family: arial;
+	border-radius: 20px;
+	box-shadow: 0 0 0 3px black,0 0 0 12px lightblue;
+	transition: 0.3s;
+	float: left;
+	margin-bottom: 50px;
+}
+.onas:hover
+{
+	box-shadow: 0 0 0 3px black, 0 0 0 18px lightblue;
+	border-radius: 40px;
+}
+.kontakt
+{
+	padding: 15px 40px;
+	font-size: 40px;
+	text-transform: uppercase;
+	border-style: none;
+	padding: 0;
+	background-color: orange;
+	font-family: arial;
+	border-radius: 20px;
+	box-shadow: 0 0 0 3px black,0 0 0 12px orange;
+	transition: 0.3s;
+	float: left;
+	margin-bottom: 50px;
+}
+.kontakt:hover
+{
+	box-shadow: 0 0 0 3px black, 0 0 0 18px orange;
+	border-radius: 40px;
+}
+#fotter
+{
+	margin-top: 50px;
+	background-color: white;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+}
+#kontakty
+{
+	text-align: center;
+	font-size: 30px;
+	margin: auto;
+	overflow: hidden;
+	width: 100%;
+	height: 100%;
+}
+#opis
+{
+	text-align: center;
+	margin-bottom: 200px;
+	margin-left: 50px;
+	margin-right: 20px;
+	padding: 20px;
+	font-size: 30px;
+
+}

@@ -1,0 +1,29 @@
+.postcard
+{
+	display: inline-block;
+	text-align: center;
+	padding: 4px;
+	width: 450px;
+	float: center;
+	transition: transform 0.3s;
+}
+.postcard:hover
+{
+	transform: scale(1.30);
+
+}
+
+#Galeria
+{
+	
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-top: auto;
+	text-align: justify;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	
+
+}
