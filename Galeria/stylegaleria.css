@@ -1,11 +1,16 @@
 .postcard
 {
-	display: inline-block;
-	text-align: center;
-	padding: 4px;
-	width: 450px;
-	float: center;
-	transition: transform 0.3s;
+	margin:  10px 0;
+	width: 495px;
+	background: white;
+	padding:  10px;
+	border-radius: 3px;
+	border: 1px solid silver;
+	box-sizing: border-box;
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+
 }
 .postcard:hover
 {
@@ -15,15 +20,10 @@
 
 #Galeria
 {
-	
+	background: #eeee;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
 	width: 100%;
-	margin-left: auto;
-	margin-right: auto;
-	margin-bottom: auto;
-	margin-top: auto;
-	text-align: justify;
-	padding-top: 10px;
-	padding-bottom: 10px;
-	
 
 }
